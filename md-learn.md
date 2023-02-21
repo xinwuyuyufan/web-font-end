@@ -32,7 +32,7 @@
 5. 图片
    
    - 上传本地图片直接拖进去
-   - ![yunjin](D:\资料\解压\云堇\yunjin.jpg)
+   - ![yunjin](D:\Program Files(x86)\web-font-end\images\yunjin.jpg)
    - ![yunjin]显示在图片下面的文字
    - 图片title是图片的标题，当鼠标移上去显示的内容
 6. 超链接
@@ -59,4 +59,4 @@
     ` // 单行代码块`
     ``` 
     //多行代码块
-    ``` 
+    ```
